@@ -1,4 +1,4 @@
-# 📘 README – Talleres Clásico y Cuántico
+# README – Talleres Clásico y Cuántico
 
 ## 👩‍💻 Taller 1: From Classical to Quantum
 
